@@ -1,0 +1,117 @@
+body{
+  
+   
+    font-family: 'Poppins', sans-serif;
+}
+.orange{
+   color: orange;
+}
+.font-saize{
+    font-size: 60px;
+}
+.margin{
+    margin: 2%;
+    width: 50%;
+}
+
+
+.containers{
+    display: flex;
+    margin-bottom: 150px;
+    padding: 0 100px;
+
+}
+.width{
+    width: 50%;
+}
+.img{
+    width: 80%;
+}
+.link-batton{
+    background-color: tomato;
+    color: white;
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 15px 30px ;
+    font-weight: 500;
+    
+}
+.backgraound-img{
+   background-image: url(images/7.png); 
+   background-repeat: no-repeat;
+    
+   
+    
+  
+}
+.Person{
+    width: 50%;
+   
+}
+.centar{
+    text-align: center;
+   
+}
+img{
+    width: 300px;
+}
+.height{
+    height: 230px;
+    border-radius: 20px;
+}
+.container-word-reper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.box-shadow{
+    width: 20%;
+    height: 10%;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow:10px 10px 10px 10px rgba(145, 141, 141, 0.76);
+}
+ 
+}
+.text{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.vitore{
+    text-align: center;
+    background-color: black;
+    color: darkslategray;
+    padding: 5px;
+    
+}
+.container-word-repered{
+    display: flex; 
+    box-shadow:10px 10px 10px 10px rgba(145, 141, 141, 0.76);
+    margin: 0 100px;
+
+}
+.box-shadows{
+    width: 20%;
+    height: 10%;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow:10px 10px 10px 10px rgba(145, 141, 141, 0.76);
+    
+    
+}
+.item{
+    width: 30%;
+    height: 10%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.container-item{
+    width: 100%;
+    
+    
+}
